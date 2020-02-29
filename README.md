@@ -23,3 +23,7 @@ Run the docker image
 Run the simulation
 
     ./simulation.sh
+
+To terminate the simulation
+
+    ./simulation.sh kill
